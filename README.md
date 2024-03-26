@@ -28,8 +28,8 @@ This project implements a calculator using a keypad and an LCD display. It allow
 
 Contributions are welcome! Please fork the repository and submit a pull request with your changes.
 ## Author 
-NAME : Ahmed Khaled Abdelmaksod
+NAME : Ahmed Khaled Abdelmaksod.
 LinkedIn : https://www.linkedin.com/in/ahmed-khaled-661298256/
-Email : ak4902280@gmail.com
-feel free to contact me :)
+.Email : ak4902280@gmail.com
+.feel free to contact me :)
 
