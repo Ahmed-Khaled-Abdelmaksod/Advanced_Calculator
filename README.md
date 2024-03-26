@@ -1,6 +1,6 @@
-# Calculator Project V1.0.1
+# Calculator Project V(1.0.1)
 
-This project implements a simple calculator using a keypad and an LCD display. It allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
+This project implements a calculator using a keypad and an LCD display. It allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
 ## Features
 
