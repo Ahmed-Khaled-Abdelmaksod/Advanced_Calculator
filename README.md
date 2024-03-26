@@ -1,5 +1,5 @@
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 # Calculator Project V(1.0.1)
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 This project implements a calculator using a keypad and an LCD display. It allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
